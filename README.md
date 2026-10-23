@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Quake-Save-Manager` · Updated: 2026-10-07
+`Quake-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `quake` `save-manager` `fps` `id-software` `classic`
